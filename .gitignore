@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Project-specific cache
+preds-cache/*
+# hp-cache is fine because it's small
